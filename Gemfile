@@ -67,3 +67,4 @@ group :test do
 end
 
 gem 'twilio-ruby'
+gem 'dotenv-rails', groups: [:development, :test]
